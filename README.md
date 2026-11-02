@@ -15,6 +15,6 @@ Section: CSM-05
    9.Pattern.py
    10.Performance.py
 
-   The outputs and algorithms are in Python Activity Learning.pdf 
+   The outputs and algorithms are in Python programming laboratory.pdf
    
   
